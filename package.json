@@ -2,6 +2,7 @@
   "name": "base-components",
   "description": "Wrappers for quasar",
   "version": "0.1.0",
+  "license": "GPL-3.0",
   "files": [
     "dist"
   ],
@@ -11,6 +12,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
+    "@babel/core": "^7.0.0",
     "@babel/eslint-parser": "^7.13.14",
     "@vitejs/plugin-vue": "^1.10.1",
     "eslint": "^7.14.0",
